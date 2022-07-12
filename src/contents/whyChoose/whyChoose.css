@@ -1,0 +1,56 @@
+.why-choose {
+    padding: 50px 0;
+}
+
+.why-choose h3{
+    font-size: 30px;
+    color: #333;
+    font-weight: 700;
+    text-align: center;
+}
+
+.why-choose h2 {
+    font-size: 20px;
+    font-weight: 500;
+    color: #333;
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+
+.why-choose p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    color: #666;
+}
+
+.why-choose .cards {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.why-choose .col-xl-4 {
+    padding: 0 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+.gray::before {
+    position: absolute;
+    content: "";
+    background-image: url(../images/berriesorder.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.05;
+}
+
+.gray {
+  position: relative;
+}
+

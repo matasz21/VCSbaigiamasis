@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/VSCbaigiamasis/static/css/main.3aa27772.css",
+    "main.js": "/VSCbaigiamasis/static/js/main.8036a9b1.js",
+    "static/js/787.b06cfdbb.chunk.js": "/VSCbaigiamasis/static/js/787.b06cfdbb.chunk.js",
+    "static/media/raspberries.jpg": "/VSCbaigiamasis/static/media/raspberries.a4557560721f9a6bdfae.jpg",
+    "static/media/berriesorder.jpg": "/VSCbaigiamasis/static/media/berriesorder.e7143e87a16831e7b0c7.jpg",
+    "static/media/blueberries.jpg": "/VSCbaigiamasis/static/media/blueberries.c0f36014c9767d12a533.jpg",
+    "static/media/strawberries.jpg": "/VSCbaigiamasis/static/media/strawberries.6faddcfa6af07e9a687b.jpg",
+    "static/media/LogoWeb.png": "/VSCbaigiamasis/static/media/LogoWeb.6392c05c9a7d3ae84985.png",
+    "index.html": "/VSCbaigiamasis/index.html",
+    "main.3aa27772.css.map": "/VSCbaigiamasis/static/css/main.3aa27772.css.map",
+    "main.8036a9b1.js.map": "/VSCbaigiamasis/static/js/main.8036a9b1.js.map",
+    "787.b06cfdbb.chunk.js.map": "/VSCbaigiamasis/static/js/787.b06cfdbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aa27772.css",
+    "static/js/main.8036a9b1.js"
+  ]
+}

@@ -1,0 +1,30 @@
+.about-us h1 {
+    font-size: 30px;
+    color: #333;
+    font-weight: 700;
+    text-align: center;
+}
+
+.about-us h2 {
+    color: #333;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.about-us .col-md-6 {
+    margin: 30px 0;
+}
+
+.about-us {
+    min-height: 650px;
+}
+
+.about-us p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+.accordion-button {
+    background-color: rgba(211, 211, 211, 0.226) !important;
+}

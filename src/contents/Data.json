@@ -1,0 +1,50 @@
+[
+    {   
+        "id": 1,
+        "title": "Braškės",
+        "amount": "1kg",
+        "price": "4Eur/kg",
+        "priceNum": 4, 
+        "img": "images/braskeindelis.jpg"
+    },
+    {   
+        "id": 2,
+        "title": "Šilauogės",
+        "amount": "1kg",
+        "price": "6Eur/kg",
+        "priceNum": 6,
+        "img": "images/silauogeindelis.jpg"
+    },
+    {   
+        "id": 3,
+        "title": "Avietės",
+        "amount": "1kg",
+        "price": "3Eur/kg",
+        "priceNum": 3,
+        "img": "images/avieteindelis.jpg"
+    },
+    {   
+        "id": 4,
+        "title": "Arbūzai",
+        "amount": "1kg",
+        "price": "N/A Eur/kg",
+        "priceNum": 3,
+        "img": "images/watermelons.jpg"
+    },
+    {   
+        "id": 5,
+        "title": "Meleonai",
+        "amount": "1kg",
+        "price": "N/A Eur/kg",
+        "priceNum": 3,
+        "img": "images/melons.jpg"
+    },
+    {   
+        "id": 6,
+        "title": "Kriaušės",
+        "amount": "1kg",
+        "price": "N/A Eur/kg",
+        "priceNum": 3,
+        "img": "images/pears.jpg"
+    }
+]

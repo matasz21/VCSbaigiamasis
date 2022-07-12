@@ -1,0 +1,25 @@
+.contact h1 {
+    font-size: 30px;
+    color: #333;
+    font-weight: 700;
+    text-align: center;
+}
+
+.contact h2 {
+    color: #333;
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.contact a {
+    color:#333
+}
+
+.contact .col-md-6 {
+    margin: 30px 0;
+}
+
+iframe {
+    width: 100%;
+}

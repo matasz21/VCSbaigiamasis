@@ -1,0 +1,50 @@
+footer {
+    background: #333;
+    height: 340px;
+    padding: 100px 0 10px 0;
+    color: #e2e2e2;
+}
+
+footer p {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+footer a {
+    font-weight: 400;
+    font-size: 16px;
+    color: #e3e3e36c;
+}
+
+footer h1 {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+footer svg {
+    height: 60px !important;
+    width: 60px !important;
+}
+
+footer .split {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 100%;
+}
+
+.footer-bottom {
+    width: 100%;
+}
+
+.footer-text {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+}
+
+@media (max-width:800px) {
+    footer {
+        min-height: 480px;
+    }
+}
